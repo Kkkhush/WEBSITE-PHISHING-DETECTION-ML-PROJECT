@@ -17,7 +17,7 @@ This project aims to enhance the understanding and detection of **cyber-attacks*
 - ✅ Decision Tree Classifier
 - 🌲 Random Forest Classifier
 - ➖ Support Vector Machine (SVM)
-- 🧪 Isolation Forest (Anomaly Detection - optional)
+- 🧪 XGBoost 
 
 ---
 

@@ -83,18 +83,7 @@ Each model's key predictors were visualized, helping in feature interpretability
 
 ---
 
-## 🚀 Deployment Plans
 
-### ✅ Suggested Deployment Stack
-- **Backend**: Flask or FastAPI (for serving predictions)
-- **Frontend** (optional later): Streamlit or simple HTML+JS form
-- **Deployment Platform**:
-  - **Streamlit Cloud** (super simple for frontend + backend combined)
-  - **Render** or **Railway** (for full-stack or API)
-  - **GitHub Pages** (only if frontend is static)
-  - **Hugging Face Spaces (with Gradio or Streamlit)** — easy for ML demos
-
----
 
 ## 📌 Future Improvements
 
@@ -105,12 +94,6 @@ Each model's key predictors were visualized, helping in feature interpretability
 
 ---
 
-## 🙋‍♀️ Author
-
-**Khushi** — Engineering Student | Machine Learning Enthusiast  
-💼 [LinkedIn](#) • 📂 [GitHub](#) • 📧 [Email](#)
-
----
 
 ## 📜 License
 
